@@ -86,3 +86,7 @@ Nhập một số tự nhiên bất kỳ: 85854542121000125421051<br />
 Số 85854542121000125421051 đọc là: tám mươi lăm nghìn tám trăm năm mươi tư tỷ tỷ năm trăm bốn mươi hai triệu một trăm hai mươi mốt nghìn tỷ một trăm hai mươi lăm triệu bốn trăm hai mươi mốt nghìn không trăm năm mươi mốt<br />
 Nhập một số tự nhiên bất kỳ: 1000000100014<br />
 Số 1000000100014 đọc là: một nghìn tỷ một trăm nghìn không trăm mười bốn<br />
+Nhập một số tự nhiên bất kỳ: 328u23<br />
+Chỉ được nhập số tự nhiên!<br />
+Nhập một số tự nhiên bất kỳ: dssdjsd<br />
+Chỉ được nhập số tự nhiên!<br />
